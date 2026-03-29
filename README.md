@@ -146,3 +146,17 @@ docker run --rm -p 8080:8080 ^
   url-shortener-app:v1
 
 On Linux, `host.docker.internal` may need `--add-host=host.docker.internal:host-gateway` (Docker 20.10+).
+
+
+
+
+
+
+
+
+
+
+
+run command spring boot:-----     ./mvnw spring-boot:run
+
+run command :-----      ./run-local.cmd
