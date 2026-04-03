@@ -1,4 +1,4 @@
-package com.thenriquedb.url_shortener.configuration;
+package com.subh.url_shortener.configuration;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.filter.ForwardedHeaderFilter;

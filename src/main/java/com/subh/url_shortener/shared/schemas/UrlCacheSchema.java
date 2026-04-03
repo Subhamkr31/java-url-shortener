@@ -1,6 +1,6 @@
-package com.thenriquedb.url_shortener.shared.schemas;
+package com.subh.url_shortener.shared.schemas;
 
-import com.thenriquedb.url_shortener.shared.util.DateUtils;
+import com.subh.url_shortener.shared.util.DateUtils;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

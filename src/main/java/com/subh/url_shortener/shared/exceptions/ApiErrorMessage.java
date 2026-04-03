@@ -1,4 +1,4 @@
-package com.thenriquedb.url_shortener.shared.exceptions;
+package com.subh.url_shortener.shared.exceptions;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

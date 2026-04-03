@@ -1,4 +1,4 @@
-package com.thenriquedb.url_shortener.configuration;
+package com.subh.url_shortener.configuration;
 
 import io.lettuce.core.RedisCredentials;
 import io.lettuce.core.RedisCredentialsProvider;
@@ -20,8 +20,8 @@ import java.util.Objects;
 
 
 @Configuration
-@EnableMongoRepositories(basePackages = "com.thenriquedb.url_shortener.repositories.mongo")
-@EnableRedisRepositories(basePackages = "com.thenriquedb.url_shortener.repositories.redis")
+@EnableMongoRepositories(basePackages = "com.subh.url_shortener.repositories.mongo")
+@EnableRedisRepositories(basePackages = "com.subh.url_shortener.repositories.redis")
 class RedisConfiguration {
 
     @Bean

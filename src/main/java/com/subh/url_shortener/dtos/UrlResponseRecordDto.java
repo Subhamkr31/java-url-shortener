@@ -1,4 +1,4 @@
-package com.thenriquedb.url_shortener.dtos;
+package com.subh.url_shortener.dtos;
 
 import java.time.LocalDateTime;
 

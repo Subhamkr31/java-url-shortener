@@ -1,7 +1,7 @@
-package com.thenriquedb.url_shortener.shared.validation;
+package com.subh.url_shortener.shared.validation;
 
-import com.thenriquedb.url_shortener.shared.exceptions.ApiErrorMessage;
-import com.thenriquedb.url_shortener.shared.exceptions.BusinessException;
+import com.subh.url_shortener.shared.exceptions.ApiErrorMessage;
+import com.subh.url_shortener.shared.exceptions.BusinessException;
 import org.springframework.core.Ordered;
 import org.springframework.core.annotation.Order;
 import org.springframework.http.HttpHeaders;
